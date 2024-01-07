@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WLEDPlugin", "WLEDPlugin\WLEDPlugin.csproj", "{13209784-115B-4702-A9BA-599C7005EF22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WLEDPlugin.Console", "WLEDPlugin.Console\WLEDPlugin.Console.csproj", "{7F635B1E-826B-4098-90B8-5A378282E50E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13209784-115B-4702-A9BA-599C7005EF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13209784-115B-4702-A9BA-599C7005EF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13209784-115B-4702-A9BA-599C7005EF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13209784-115B-4702-A9BA-599C7005EF22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F635B1E-826B-4098-90B8-5A378282E50E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F635B1E-826B-4098-90B8-5A378282E50E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F635B1E-826B-4098-90B8-5A378282E50E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F635B1E-826B-4098-90B8-5A378282E50E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
